@@ -27,4 +27,5 @@ int main(void)
         scanf("%d", &n);
     }
     return 0;
+    
 }
